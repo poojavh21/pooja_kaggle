@@ -5,5 +5,6 @@ Group Activity
 
 
 EDA processing--Akash Joshi
+Model Building--Tushat Gupta
 <br>
 #
