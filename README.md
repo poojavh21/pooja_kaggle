@@ -14,8 +14,9 @@ Text Preprocessing:  Transforming raw data into format that is easier to underst
 
 Data Preprocessing --Arati Joshi
 
-Model Building--Tushat Gupta
+Model Building: Use stratified data splitting to train the two models LogisticRegression and Multinomial NaiveBayes to model the data. Although their accuracy were close but 
+LogisticRegression performed better, and therefore it was chosen as our final model.
 
 Conclusion:
-"Our results show that Logistic Regression outperforms other algorithms in terms of accuracy, achieving the highest accuracy at 81%. Therefore, Logistic Regression is the best model for this dataset based on accuracy."
+"Our results show that Logistic Regression outperforms other models like Multinomial NaiveBayes in terms of accuracy, achieving the accuracy of around 81%. Therefore, Logistic Regression was choosen as our final model for this dataset."
 
