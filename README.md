@@ -4,7 +4,7 @@ Group Activity
 #Natural Language Processing with Disaster Tweets
 
 
-EDA processing--Akash Joshi
+EDA processing--Akash Joshi              
 Model Building--Tushat Gupta
 <br>
 #
