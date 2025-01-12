@@ -14,7 +14,7 @@ Text Preprocessing:  Transforming raw data into format that is easier to underst
 
 Data Preprocessing --Arati Joshi
 
-Model Building: Use stratified data splitting to train the two models LogisticRegression and Multinomial NaiveBayes to model the data. Although their accuracy were close but 
+Model Building (Tushar Gupta): Use stratified data splitting to train the two models LogisticRegression and Multinomial NaiveBayes to model the data. Although their accuracy were close but 
 LogisticRegression performed better, and therefore it was chosen as our final model.
 
 Conclusion:
